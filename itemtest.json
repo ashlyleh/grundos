@@ -1,5 +1,34 @@
 {
-  "1": [
-    ["Green Apple"],
-]
+  "items": [
+    "Green Apple",
+    "Grapes",
+    "Bread",
+    "Wriggling Grub",
+    "Peach",
+    "Nachos",
+    "Chicken",
+    "Negg",
+    "Sweet",
+    "Banana",
+    "Eyeball",
+    "Frost Mote",
+    "Water Mote",
+    "Organic Carrot",
+    "Tomato",
+    "Pizza",
+    "Sandwich",
+    "Cherries",
+    "Magic Potion",
+    "Purple Negg",
+    "Green Negg",
+    "Joint of Ham",
+    "Lava Mote",
+    "Bubble Mote",
+    "Ice Mote",
+    "Dark Scroll",
+    "Water Spell",
+    "Earth Spell",
+    "Air Spell",
+    "Enchantment"
+  ]
 }
